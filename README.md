@@ -3,4 +3,4 @@ I am currently learning Python and have experience with APIs, Databases and Web 
 I have worked with SQL(PostgreSQL), Database migration (Alembic) and hosting platforms like Heroku and Ubuntu. I have built an API
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
