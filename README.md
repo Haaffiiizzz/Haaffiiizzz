@@ -4,3 +4,4 @@ I have worked with SQL(PostgreSQL), Database migration (Alembic) and hosting pla
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
