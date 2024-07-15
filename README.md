@@ -5,4 +5,4 @@ I have worked with SQL(PostgreSQL, SQLAlchemy), Database migration (Alembic) and
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
