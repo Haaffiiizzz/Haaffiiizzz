@@ -30,16 +30,22 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 ## 🌟 Projects
 
 ### 📡 API Development
-- Built and deployed a robust API on **Heroku**, leveraging **FastAPI** and PostgreSQL for efficient and reliable performance.
+- Built and deployed a robust API on **Heroku**, leveraging **FastAPI** and **PostgreSQL** for efficient and reliable performance.
+- Utilized **SQLAlchemy** for ORM and database migrations via **Alembic**.
+- Implemented **JWT/OAuth** for secure user authentication.
+- Created a CI/CD pipeline on **GitHub** to automate deployment.
 
 ### 🕵️ Web Scraping & Automation
 - Developed a Python-based web scraping application using **Requests** and **Selenium** to extract, process, and present data dynamically.
+- Implemented a backend API using **FastAPI** to integrate the scraping functionality.
+- Designed a **PostgreSQL** database to store and manage user data and wishlist items.
+- Continuously tested and validated API endpoints using **Postman** and **Pytest**.
 
 ---
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=True)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
