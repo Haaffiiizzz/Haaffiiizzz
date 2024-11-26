@@ -7,23 +7,23 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 ## 🛠️ Skills and Expertise
 
 ### 🐍 Programming Languages
-- **Python**: My strongest language, used extensively for APIs, web scraping, and automation.
-- **JavaScript**: Currently learning and applying it, including frameworks like React.js.
-- **Golang**: Exploring its potential for backend development and system-level programming.
+- **Python**: My strongest language, used extensively for APIs, web scraping, and automation. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **JavaScript**: Currently learning and applying it, including frameworks like React.js. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Golang**: Exploring its potential for backend development and system-level programming. ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### ⚙️ Frameworks, Tools, and Platforms
-- **FastAPI**: For building fast and scalable APIs.
-- **PostgreSQL & Relational Databases**: Database design, query optimization, and management.
-- **Selenium**: Automating web interactions and browser testing.
-- **Requests**: Handling HTTP requests for data extraction and API communication.
-- **Postman**: API testing and debugging.
-- **Authentication**: Experienced with implementing secure authentication mechanisms.
-- **Alembic**: Handling database migrations for schema changes.
-- **Heroku & Ubuntu**: Hosting and deploying APIs and applications.
+- **FastAPI**: For building fast and scalable APIs. ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+- **PostgreSQL & Relational Databases**: Database design, query optimization, and management. ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+- **Selenium**: Automating web interactions and browser testing. ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+- **Requests**: Handling HTTP requests for data extraction and API communication. ![Requests](https://img.shields.io/badge/Requests-FF4F00?style=flat-square&logo=requests&logoColor=white)
+- **Postman**: API testing and debugging. ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- **Authentication**: Experienced with implementing secure authentication mechanisms. ![Auth0](https://img.shields.io/badge/Auth0-00A3FF?style=flat-square&logo=auth0&logoColor=white)
+- **Alembic**: Handling database migrations for schema changes. ![Alembic](https://img.shields.io/badge/Alembic-118C91?style=flat-square&logo=alembic&logoColor=white)
+- **Heroku & Ubuntu**: Hosting and deploying APIs and applications. ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ### 📊 Current Focus
-- **Machine Learning**: Learning the basics of ML to dive into data-driven solutions and AI development.
-- **React.js**: Gaining hands-on experience in frontend development.
+- **Machine Learning**: Learning the basics of ML to dive into data-driven solutions and AI development. ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white)
+- **React.js**: Gaining hands-on experience in frontend development. ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
