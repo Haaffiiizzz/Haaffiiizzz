@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student** at the **University of Winnipeg** with a passion for coding, learning new technologies, and building impactful projects. 🚀
 
----
+---   
 
 ## 🛠️ Skills and Expertise
 
