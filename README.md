@@ -12,6 +12,8 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 - **Golang**: Exploring its potential for backend development and system-level programming. ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### ⚙️ Frameworks, Tools, and Platforms
+- **React JS**: For building modern, dynamic, and responsive user interfaces for web applications. ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+- **React Native**: For developing cross-platform mobile applications. ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 - **FastAPI**: For building fast and scalable APIs. ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 - **PostgreSQL & Relational Databases**: Database design, query optimization, and management. ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 - **Selenium**: Automating web interactions and browser testing. ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -23,7 +25,7 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 
 ### 📊 Current Focus
 - **Machine Learning**: Learning the basics of ML to dive into data-driven solutions and AI development. ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white)
-- **React.js**: Gaining hands-on experience in frontend development. ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- **React.js and React Native**: Gaining hands-on experience in frontend development and mobile development. ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
