@@ -41,7 +41,7 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 - Developed a Python-based web scraping application using **Requests** and **Selenium** to extract, process, and present data dynamically.
 - Implemented a backend API using **FastAPI** to integrate the scraping functionality.
 - Designed a **PostgreSQL** database to store and manage user data and wishlist items.
-- Continuously tested and validated API endpoints using **Postman** and **Pytest**.
+- Continuously tested and validated API endpoints using **Postman**.
 
 ---
 
