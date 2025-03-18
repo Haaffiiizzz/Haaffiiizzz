@@ -43,6 +43,8 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 - Designed a **PostgreSQL** database to store and manage user data and wishlist items.
 - Continuously tested and validated API endpoints using **Postman**.
 
+## WakaTime Stats <sub>(Since February 3, 2025)</sub>
+[![wakatime](https://wakatime.com/badge/user/bbfe8d85-2202-4492-8815-eceda606e3d5.svg?style=plastic)](https://wakatime.com/@bbfe8d85-2202-4492-8815-eceda606e3d5) 
 ---
 
 ## 📈 GitHub Stats
