@@ -49,7 +49,7 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=False)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=False)](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=False)
 
 ---
 
