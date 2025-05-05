@@ -45,6 +45,8 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 
 ## WakaTime Stats <sub>(Since February 3, 2025)</sub>
 [![wakatime](https://wakatime.com/badge/user/bbfe8d85-2202-4492-8815-eceda606e3d5.svg?style=plastic)](https://wakatime.com/@bbfe8d85-2202-4492-8815-eceda606e3d5) 
+
+[![Hafiz's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haaffiiizzz&layout=compact)](https://wakatime.com/haaffiiizzz)
 ---
 
 ## 📈 GitHub Stats
