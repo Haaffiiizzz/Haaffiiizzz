@@ -8,8 +8,9 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 
 ### 🐍 Programming Languages
 - **Python**: My strongest language, used extensively for APIs, web scraping, and automation. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **JavaScript**: Currently learning and applying it, including frameworks like React.js. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Golang**: Exploring its potential for backend development and system-level programming. ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+- **TypeScript (TSX + React Native)**: Actively using it for building cross-platform mobile apps and modern web applications. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+- **Java**: Currently learning and applying it for backend development and object-oriented programming. ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
 
 ### ⚙️ Frameworks, Tools, and Platforms
 - **React JS**: For building modern, dynamic, and responsive user interfaces for web applications. ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -51,7 +52,7 @@ I'm a **Computer Science student** at the **University of Winnipeg** with a pass
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=False)](https://streak-stats.demolab.com?user=haaffiiizzz&theme=highcontrast&hide_border=False)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haaffiiizzz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
